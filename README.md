@@ -1,2 +1,2 @@
 # gdgmadurai.github.io
-GDG Madurai Official Website
+GDG Madurai Official Website launched in github page
