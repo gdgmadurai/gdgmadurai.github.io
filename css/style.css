@@ -1158,12 +1158,15 @@ div.menu-icon:not(:hover) {
 	background:url('../img/team/senthil.jpg');
 	}
 	.team5{
-	background:url('../img/team/manimala.jpg');
+	background:url('../img/team/prasanna.jpg');
 	}
 	.team6{
-	background:url('../img/team/dilip.jpg');
+	background:url('../img/team/manimala.jpg');
 	}
 	.team7{
+	background:url('../img/team/dilip.jpg');
+	}
+	.team8{
 	background:url('../img/team/profile.png');
 	}
 .carousel-indicators li,
