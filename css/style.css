@@ -128,7 +128,7 @@ header .intro-text .name {
     font-weight: 300;
 	font-size:1.348em;
 	line-heigh:1.249em;
-	margin-top:30px;
+	margin-top:20px;
 }
 header .intro-text {
 	height: 100%;
@@ -1161,12 +1161,15 @@ div.menu-icon:not(:hover) {
 	background:url('../img/team/prasanna.jpg');
 	}
 	.team6{
-	background:url('../img/team/manimala.jpg');
+	background:url('../img/team/balaji.jpg');
 	}
 	.team7{
-	background:url('../img/team/dilip.jpg');
+	background:url('../img/team/manimala.jpg');
 	}
 	.team8{
+	background:url('../img/team/dilip.jpg');
+	}
+	.team9{
 	background:url('../img/team/profile.png');
 	}
 .carousel-indicators li,
